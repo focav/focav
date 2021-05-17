@@ -142,13 +142,13 @@ header nav ul li a{
     margin-bottom: 20px;
 }
 #step-1{
-    background: url('images/logo1.png') no-repeat top center;
+    background: url('logo1.png') no-repeat top center;
 }
 #step-2{
-    background: url('images/logo2.png') no-repeat top center;
+    background: url('logo2.png') no-repeat top center;
 }
 #step-3{
-    background: url('images/logo3.jpg') no-repeat top center;
+    background: url('logo3.jpg') no-repeat top center;
 }
 
 /* POSSIBILITIES */
